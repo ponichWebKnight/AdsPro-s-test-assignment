@@ -1,4 +1,5 @@
 # chat
+This is a test assignment for the AdsPro company.
 
 ## Project setup
 ```
